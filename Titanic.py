@@ -3,8 +3,6 @@
 Kaggle: Titanic
 """
 
-import os
-os.chdir('/Users/jaoming/Documents/Codes/titanic')
 import pandas as pd
 from tensorflow import keras
 import numpy as np
